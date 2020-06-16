@@ -1,0 +1,22 @@
+{
+  "server":"https://iszcloud-api.yun.city.pingan.com",
+  "user_info": [
+    {
+      "mobile": "18888888888",
+      "code":"XXXXX"
+    }
+  ],
+  "mail": {
+    "smtp_smarthost": "smtp.163.com:25",
+    "smtp_from": "XXX@163.com",
+    "smtp_auth_username": "XXX@163.com",
+    "smtp_auth_identity":"password",
+    "smtp_auth_password": "password",
+    "smtp_require_tls": false,
+    "smtp_to":["XXX@163.com"]
+  }
+}
+
+
+
+
